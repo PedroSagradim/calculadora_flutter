@@ -1,16 +1,13 @@
-# calculadora_flutter
+# Calculadora Flutter
 
-Calculadora Flutter
+Calculadora em Flutter
 
-## Getting Started
+## Comentários do Desenvolvedor
 
-This project is a starting point for a Flutter application.
+Outro projeto para treinar Flutter, operações simples (soma, subtração, divisão e multiplicação), 
+caso você selecione a opção errada ele carrega um MATH ERROR, comum de muitas calculadoras.
+Possui um botão de histórico e apagar histórico no final da lista.
 
-A few resources to get you started if this is your first Flutter project:
+## Versão Mobile:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![emulator](https://user-images.githubusercontent.com/98926202/174505798-570a2c90-afd1-44c6-9da8-2828a71fe3c3.gif)
